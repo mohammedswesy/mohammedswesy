@@ -54,7 +54,7 @@ Education-focused SaaS system:
 ---
 
 ### 📫 Contact
-- LinkedIn: https://linkedin.com/in/mohammedswesy
+- LinkedIn: https://www.linkedin.com/in/mohammed-swesy-0450a8272
 - Email: melswesy6@gmail.com
 
 > I don't just write code — I design systems that make sense.
