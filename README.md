@@ -1,30 +1,60 @@
-## Hi there 👋
+# Mohammed Al-Swaisy 👋
 
-# Hello, I'm Mohammed Al swaisy 👋
+## Senior Backend Engineer | Laravel & Node.js | SaaS Architect
 
-- 👨‍💻 **Web Developer specialized** in Laravel, Node.js, and modern web development.
-- 🚀 **Passionate about building efficient and scalable applications** and exploring new technologies.
-- 🌱 **Currently working on:** An e-commerce store project using Laravel.
-- 💡 **Feel free to ask me about:** Web development, APIs, and solving complex programming challenges.
-- 📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/mohammed-swesy-0450a8272) | [Email](mailto:melswesy6@gmail.com).
+Backend-focused software engineer with strong experience in designing **scalable, multi-role SaaS systems**.
+I specialize in **Laravel architecture, REST APIs, business logic design**, and building systems that scale beyond CRUD.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedswesy&show_icons=true&theme=dark)
+### 🧠 What I Actually Do (Not Buzzwords)
+- Design **clean backend architectures** (Service Layer, Policies, DTOs)
+- Build **multi-role systems** (Admin / Owner / User)
+- Secure APIs (Auth, Permissions, Rate Limiting)
+- Translate **business requirements into maintainable code**
+- Think in **systems, not pages**
 
+---
 
-<!--
-**mohammedswesy/mohammedswesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+**Backend**
+- Laravel (10/11), PHP 8+
+- Node.js, Express
+- REST APIs, Auth (JWT, Sanctum)
+- MySQL, PostgreSQL
 
-Here are some ideas to get you started:
+**Frontend**
+- React (TypeScript)
+- Vue.js
+- Blade / Inertia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Architecture & Practices**
+- SOLID principles
+- Policy & Gate authorization
+- Modular design
+- Clean code & refactoring
 
+---
+
+### 🚀 Featured Projects
+#### 🏢 WorkZone – Coworking Space Booking System
+Multi-role SaaS-ready system:
+- Admin / Owner / User dashboards
+- Booking lifecycle & availability logic
+- Scalable architecture for future multi-tenant support  
+👉 Repo: https://github.com/mohammedswesy/workzone-booking-system
+
+#### 📖 AhlQuran – Quran Circles Management Platform
+Education-focused SaaS system:
+- Students, Teachers, Circles, Attendance
+- Role-based access & permissions
+- API-first backend architecture  
+👉 Repo: https://github.com/mohammedswesy/ahlquran-app
+
+---
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/mohammedswesy
+- Email: melswesy6@gmail.com
+
+> I don't just write code — I design systems that make sense.
