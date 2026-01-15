@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm Mohammed AlSwesy 👋
+# Hello, I'm Mohammed Al swaisy 👋
 
 - 👨‍💻 **Web Developer specialized** in Laravel, Node.js, and modern web development.
 - 🚀 **Passionate about building efficient and scalable applications** and exploring new technologies.
