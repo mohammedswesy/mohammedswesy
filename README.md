@@ -1,34 +1,34 @@
 # Mohammed swesy👋
 
-## Senior Backend Engineer | Laravel & Node.js | SaaS Architect
+ MasterFul Backend Engineer | Laravel & Node.js | SaaS Architect
 
 Backend-focused software engineer with strong experience in designing **scalable, multi-role SaaS systems**.
 I specialize in **Laravel architecture, REST APIs, business logic design**, and building systems that scale beyond CRUD.
 
 ---
 
-### 🧠 What I Actually Do (Not Buzzwords)
-- Design **clean backend architectures** (Service Layer, Policies, DTOs)
-- Build **multi-role systems** (Admin / Owner / User)
+ 🧠 What I Actually Do (Not Buzzwords)
+- Design clean backend architectures (Service Layer, Policies, DTOs)
+- Build multi-role systems (Admin / Owner / User)
 - Secure APIs (Auth, Permissions, Rate Limiting)
-- Translate **business requirements into maintainable code**
-- Think in **systems, not pages**
+- Translate business requirements into maintainable code
+- Think in systems, not pages
 
 ---
 
-### 🛠 Tech Stack
-**Backend**
+ 🛠 Tech Stack
+Backend
 - Laravel (10/11), PHP 8+
 - Node.js, Express
 - REST APIs, Auth (JWT, Sanctum)
 - MySQL, PostgreSQL
 
-**Frontend**
+Frontend
 - React (TypeScript)
 - Vue.js
 - Blade / Inertia
 
-**Architecture & Practices**
+Architecture & Practices
 - SOLID principles
 - Policy & Gate authorization
 - Modular design
@@ -36,15 +36,15 @@ I specialize in **Laravel architecture, REST APIs, business logic design**, and 
 
 ---
 
-### 🚀 Featured Projects
-#### 🏢 WorkZone – Coworking Space Booking System
+🚀 Featured Projects
+ 🏢 WorkZone – Coworking Space Booking System
 Multi-role SaaS-ready system:
 - Admin / Owner / User dashboards
 - Booking lifecycle & availability logic
 - Scalable architecture for future multi-tenant support  
 👉 Repo: https://github.com/mohammedswesy/workzone-booking-system
 
-#### 📖 AhlQuran – Quran Circles Management Platform
+ 📖 AhlQuran – Quran Circles Management Platform
 Education-focused SaaS system:
 - Students, Teachers, Circles, Attendance
 - Role-based access & permissions
@@ -53,7 +53,7 @@ Education-focused SaaS system:
 
 ---
 
-### 📫 Contact
+ 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mohammed-swesy-0450a8272
 - Email: melswesy6@gmail.com
 
