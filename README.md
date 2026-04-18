@@ -1,7 +1,7 @@
 # Mohammed AlSwesy
-### Backend Engineer | Laravel • Node.js • Python • SaaS Architecture • REST APIs • QA
+### Software Engineer  | Laravel • Node.js • Python • SaaS Architecture • REST APIs • QA
 
-Backend Engineer focused on building **scalable SaaS systems, clean architectures, and production-ready APIs**.
+Software Engineer  focused on building **scalable SaaS systems, clean architectures, and production-ready APIs**.
 
 I also have hands-on experience in **Quality Assurance (Manual Testing)** and using Python for problem-solving and system logic.
 
