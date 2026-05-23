@@ -1,13 +1,10 @@
 # Mohammed AlSwesy
 ### Software Engineer  | Laravel • Node.js • Python • SaaS Architecture • REST APIs • QA
 
-Software Engineer  focused on building **scalable SaaS systems, clean architectures, and production-ready APIs**.
-
-I also have hands-on experience in **Quality Assurance (Manual Testing)** and using Python for problem-solving and system logic.
-
-I design systems that go beyond CRUD — focusing on **business logic, scalability, and maintainability**.
-
-💡 Currently open to remote opportunities and freelance backend projects.
+Software Engineer focused on building scalable SaaS systems, clean architectures, production-ready APIs, and reliable software through a strong QA mindset.
+I have hands-on experience in Quality Assurance, including manual testing, test case writing, bug reporting, API testing basics, and validating system behavior from both user and technical perspectives.
+I design systems that go beyond CRUD — focusing on business logic, scalability, maintainability, and testability.
+💡 Currently open to remote opportunities, freelance backend projects, and QA opportunities.
 
 ---
 
@@ -37,8 +34,14 @@ I design systems that go beyond CRUD — focusing on **business logic, scalabili
 
 ### QA & Testing
 - Manual Testing
-- Test Cases & Bug Reporting
-- Basic QA Practices
+- Test Case Design
+- Bug Reporting
+- API Testing Basics
+- Postman
+- Selenium Basics
+- TestNG Basics
+- System Behavior Validation
+- QA Mindset
 
 ### Architecture & Practices
 - SOLID principles
@@ -78,6 +81,8 @@ Education SaaS system:
 - Refactor and optimize existing applications
 - Build SaaS platforms from scratch
 - Perform testing and ensure system reliability
+- Write test cases and report bugs clearly
+- Validate system behavior from a QA perspective
 
 ---
 
