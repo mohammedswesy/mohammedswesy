@@ -5,7 +5,7 @@ Software Engineer focused on building scalable SaaS systems, clean architectures
 
 I have hands-on experience in Quality Assurance, including manual testing, test case writing, bug reporting, API testing, automation testing, and validating system behavior from both user and technical perspectives.
 
-I design systems that go beyond CRUD — focusing on business logic, scalability, maintainability, and testability.
+I design systems that go beyond CRUD focusing on business logic, scalability, maintainability, and testability.
 
 💡 Currently open to remote opportunities, freelance backend projects, and QA opportunities.
 
