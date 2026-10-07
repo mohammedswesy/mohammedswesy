@@ -2,11 +2,11 @@
 
 ### Full-Stack Software Engineer | Laravel · Node.js · React · QA Automation
 
-I build **scalable SaaS platforms, production-ready APIs, and reliable software** with a strong focus on clean architecture, business logic, security, and testing.
+I build **scalable SaaS platforms, production-ready APIs, and reliable software** with a focus on clean architecture, business logic, security, and testing.
 
-I have hands-on experience across **Laravel, Node.js, React, REST APIs, MySQL/PostgreSQL, Selenium, and Java**, combining software development with a strong QA mindset.
+Hands-on experience with **Laravel, Node.js, React, REST APIs, MySQL/PostgreSQL, Selenium, and Java**, combining software development with a strong QA mindset.
 
-**Currently open to:** Remote opportunities · Freelance projects · Backend & QA roles
+**Open to:** Remote opportunities · Freelance projects · Backend & QA roles
 
 ---
 
@@ -20,64 +20,57 @@ I have hands-on experience across **Laravel, Node.js, React, REST APIs, MySQL/Po
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### 🏢 WorkZone — Coworking Space Booking SaaS
-Multi-role booking platform with Admin, Owner, and User workflows.
+
+Multi-role booking platform built with Laravel.
 
 - Booking & availability management
+- Admin, Owner & User workflows
 - Role-based access control
 - SaaS-ready architecture
-- Laravel backend
 
 [View Repository](https://github.com/mohammedswesy/workzone-booking-system)
 
 ### 📖 AhlQuran — Quran Management Platform
-API-first platform for managing Quran institutes, students, teachers, circles, attendance, and more.
 
-- Laravel API
+API-first platform for managing Quran institutes and learning workflows.
+
+- Students, Teachers & Circles
+- Attendance & management
 - RBAC & permissions
 - Multi-institute architecture
-- Scalable backend design
 
 [View Repository](https://github.com/mohammedswesy/ahlquran-app)
 
 ### 🧪 ParaBank — QA Automation Framework
-End-to-end banking application automation project.
+
+End-to-end automation framework for a banking application.
 
 - 36 automated test cases
 - Selenium + Java + TestNG
-- Identified 7 critical bugs
+- 7 critical bugs identified
 - SRS, Test Plan, RTM & Bug Reports
 
 [View Repository](https://github.com/mohammedswesy/parabank-qa-automation-project)
 
 ### 🧪 Automation Exercise — QA Team Lead
-Selenium automation project developed by a 4-member team.
+
+Team-based Selenium automation project.
 
 - 26 automated test cases
 - Authentication, Products, Cart & Checkout
-- Team Lead & GitHub collaboration
+- Team Lead experience
+- GitHub collaboration workflow
 
 [View Repository](https://github.com/mohammedswesy/automation-exercise-qa-project)
 
 ---
 
-## 💼 What I Do
-
-- Build Laravel & Node.js backend systems
-- Design REST APIs and business logic
-- Build RBAC and multi-role systems
-- Refactor and improve existing codebases
-- Develop SaaS platforms
-- Build Selenium automation frameworks
-- Perform manual & API testing
-- Write test cases and report bugs
-
----
-
 ## 📫 Connect
-LinkedIn: https://www.linkedin.com/in/mohammedswesy/  
+
+**LinkedIn:** https://www.linkedin.com/in/mohammedswesy/  
 **Email:** melswesy6@gmail.com
 
 > I don't just write code — I build systems that are scalable, maintainable, and reliable.
