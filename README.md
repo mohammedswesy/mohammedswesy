@@ -10,7 +10,7 @@ Hands-on experience with **Laravel, Node.js, React, REST APIs, MySQL/PostgreSQL,
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend:** Laravel · PHP · Node.js · Express · REST APIs · Sanctum · JWT  
 **Frontend:** React · TypeScript · Vue.js · Inertia · Blade  
@@ -20,9 +20,9 @@ Hands-on experience with **Laravel, Node.js, React, REST APIs, MySQL/PostgreSQL,
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏢 WorkZone — Coworking Space Booking SaaS
+###  WorkZone — Coworking Space Booking SaaS
 
 Multi-role booking platform built with Laravel.
 
@@ -33,7 +33,7 @@ Multi-role booking platform built with Laravel.
 
 [View Repository](https://github.com/mohammedswesy/workzone-booking-system)
 
-### 📖 AhlQuran — Quran Management Platform
+###  AhlQuran — Quran Management Platform
 
 API-first platform for managing Quran institutes and learning workflows.
 
@@ -44,7 +44,7 @@ API-first platform for managing Quran institutes and learning workflows.
 
 [View Repository](https://github.com/mohammedswesy/ahlquran-app)
 
-### 🧪 ParaBank — QA Automation Framework
+###  ParaBank — QA Automation Framework
 
 End-to-end automation framework for a banking application.
 
@@ -55,7 +55,7 @@ End-to-end automation framework for a banking application.
 
 [View Repository](https://github.com/mohammedswesy/parabank-qa-automation-project)
 
-### 🧪 Automation Exercise — QA Team Lead
+###  Automation Exercise — QA Team Lead
 
 Team-based Selenium automation project.
 
