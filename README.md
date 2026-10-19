@@ -5,28 +5,33 @@
 I'm a software engineer from Gaza, Palestine. I work mainly with Laravel and React, and I also build Node.js APIs and write automated tests.
 
 ### Tech Stack
+
 - **Backend:** Laravel, PHP, Node.js, Express
 - **Frontend:** React, Next.js, TypeScript, Vue.js, Inertia.js
 - **Databases:** MySQL, PostgreSQL
 - **Testing:** Selenium, Java, TestNG, Postman
-- **Other:** REST APIs, Sanctum, JWT, RBAC
+- **Other:** REST APIs, Sanctum, JWT, RBAC, AI Integrations, WhatsApp API
 
 ### Projects
 
-**[WorkZone](https://github.com/mohammedswesy/workzone-booking-system)**  
+[**OpsAI**](https://github.com/mohammedswesy/opsai)  
+An AI-powered operations management platform built with Laravel 12, React, TypeScript, and Inertia.js. Includes customer management, service requests, appointments, work orders, technician scheduling, invoicing, payments, an AI assistant, and WhatsApp integration.
+
+[**WorkZone**](https://github.com/mohammedswesy/workzone-booking-system)  
 A coworking space booking system with separate dashboards for admins, owners, and users.
 
-**[AhlQuran](https://github.com/mohammedswesy/ahlquran-app)**  
+[**AhlQuran**](https://github.com/mohammedswesy/ahlquran-app)  
 A platform for managing Quran institutes, students, teachers, circles, and attendance.
 
-**[ParaBank QA Automation](https://github.com/mohammedswesy/parabank-qa-automation-project)**  
+[**ParaBank QA Automation**](https://github.com/mohammedswesy/parabank-qa-automation-project)  
 A Selenium and Java test automation project with 36 test cases and documented bugs.
 
-**[Automation Exercise](https://github.com/mohammedswesy/automation-exercise-qa-project)**  
+[**Automation Exercise**](https://github.com/mohammedswesy/automation-exercise-qa-project)  
 A team project focused on automating e-commerce workflows using Selenium.
 
 ### Contact
+
 - LinkedIn: [mohammedswesy](https://www.linkedin.com/in/mohammedswesy/)
-- Email: melswesy6@gmail.com
+- Email: [melswesy6@gmail.com](mailto:melswesy6@gmail.com)
 
 Open to remote opportunities and freelance projects.
